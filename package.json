@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
+    "@google/generative-ai": "^0.24.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -19,9 +20,15 @@
     "typescript": "~5.8.2",
     "vite": "^6.4.1"
   },
-  "description": "<div align=\"center\"> <img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" /> </div>",
+  "description": "DriveSure - A blockchain & AI-powered luxury car portal.",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "vite",
+    "ai",
+    "blockchain",
+    "cars"
+  ],
+  "author": "Priyanshi Verma",
   "license": "ISC"
 }
